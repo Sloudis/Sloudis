@@ -10,7 +10,7 @@ H
 <img align="left" alt="Java" width="60px" style="padding-right:10 px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />       
 <img align="left" alt="Python" width="60px" style="padding-right:10 px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 <img align="left" alt="Numpy" width="60px" style="padding-right:10 px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
- <iconify-icon icon="logos:seaborn-icon"></iconify-icon>      
+<a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="60" height="40"/> </a>    
 <img align="left" alt="Pandas" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
           
           
