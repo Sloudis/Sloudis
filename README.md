@@ -6,7 +6,7 @@
 H
 ---
 ### 🧰 Languages and Tools
-<img align="left" alt="C" width="30px" style="padding-right:40 px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+<img align="left" alt="C" width="60px" style="padding-right:40 px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
 <img align="left" alt="Java" width="30px" style="padding-right:10 px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />       
 <img align="left" alt="Python" width="30px" style="padding-right:10 px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 <img align="left" alt="Numpy" width="30px" style="padding-right:10 px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
