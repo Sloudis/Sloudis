@@ -1,5 +1,11 @@
 # 🚲 Stavros Loudis
 
+Student
+-------
+
+* 🌍  I'm based in Athens
+* ✉️  You can contact me at [stavrosloudis@gmail.com](mailto:stavrosloudis@gmail.com)
+* Studying at Technical University of Crete ![image](https://github.com/Sloudis/Sloudis/assets/119045082/1e6785c3-7f6f-45ed-8158-ada12924b01f)
 
 **Sloudis/Sloudis** 
 
@@ -16,9 +22,6 @@
           
 ---
 
-<h3 align="left">Contact me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/stavros-loudis-a30bb522b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/stavros-loudis-a30bb522b" height="30" width="40" /></a>
-<a href="https://www.kaggle.com/stavrosloudis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/stavrosloudis" height="30" width="40" /></a>
-<a href="stavrosloudis@gmail.com" target="blank"><img align="center" src="https://th.bing.com/th/id/OIP.d40vJE3amXKFXmaNgaHGWwHaFq?pid=ImgDet&rs=1" height="30" width="40" /></a>
-</p>
+### Socials
+
+<p align="left"> <a href="https://www.github.com/Sloudis" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/stavros-loudis-a30bb522b" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
