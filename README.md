@@ -3,7 +3,13 @@
 
 **Sloudis/Sloudis** 
 
-H
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="www.linkedin.com/in/stavros-loudis-a30bb522b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/stavros-loudis-a30bb522b" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/stavrosloudis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/stavrosloudis" height="30" width="40" /></a>
+<a href="mailto:habibashera128@gmail.com" target="blank"><img align="center" src="https://th.bing.com/th/id/OIP.d40vJE3amXKFXmaNgaHGWwHaFq?pid=ImgDet&rs=1" height="30" width="40" /></a>
+</p>
+
 ---
 ### 🧰 Languages and Tools
 <img align="left" alt="C" width="60px" style="padding-right:40 px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
