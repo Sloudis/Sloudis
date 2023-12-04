@@ -6,7 +6,7 @@ Student
 * 🌍  I'm based in Athens
 * ✉️  You can contact me at [stavrosloudis@gmail.com](mailto:stavrosloudis@gmail.com)
 * Studying at 
-  <a Technical University of Crete href="https://www.tuc.gr/"></a>
+  <a  href="https://www.tuc.gr/">Technical University of Crete</a>
 
 
 
